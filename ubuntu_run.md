@@ -1,0 +1,10 @@
+ - 1338  sudo apt update
+ - 1339  sudo apt install nodejs npm -y
+ - 1340  npm -v
+ - 1341  npm create vite@latest vue-test
+ - 1342  cd vue-test
+ - 1343  nmp install
+ - 1344  npm install
+ - 1345  npm run dev
+ - 1346  code .
+ - 1347  npm run dev
